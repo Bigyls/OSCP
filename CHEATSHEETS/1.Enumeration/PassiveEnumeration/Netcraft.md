@@ -1,0 +1,3 @@
+[_Netcraft_](https://www.netcraft.com/) is an internet service company, based in England, offering a free web portal that performs various information gathering functions such as discovering which technologies are running on a given website and finding which other hosts share the same IP netblock.
+
+Recently, Netcraft has decided to discontinue this part of their service and https://www.wappalyzer.com/ can replace it.

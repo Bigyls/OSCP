@@ -1,0 +1,3 @@
+One such site, [_Security Headers_](https://securityheaders.com/), will analyze HTTP response headers and provide basic analysis of the target site's security posture. We can use this to get an idea of an organization's coding and security practices based on the results.
+
+Another scanning tool we can use is the _SSL Server Test_ from [Qualys SSL Labs](https://www.ssllabs.com/ssltest/). This tool analyzes a server's SSL/TLS configuration and compares it against current best practices. It will also identify some SSL/TLS related vulnerabilities, such as [Poodle](https://www.cisa.gov/news-events/alerts/2014/10/17/ssl-30-protocol-vulnerability-and-poodle-attack) or [Heartbleed](https://heartbleed.com/).

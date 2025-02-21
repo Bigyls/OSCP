@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./Images",
+  "showInlineTitle": false
+}
